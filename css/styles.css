@@ -80,7 +80,7 @@ main {
 }
 
 body {
-  background-image: url("https://storage.googleapis.com/ikram-dicoding-project.appspot.com/images/box.jpg");
+  background-image: url("/images/box.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
