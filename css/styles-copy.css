@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Persona5";
-  src: url("/fonts/PersonifiedUXRegular.ttf") format("truetype");
+  src: url("./fonts/PersonifiedUXRegular.ttf") format("truetype");
 }
 
 header {

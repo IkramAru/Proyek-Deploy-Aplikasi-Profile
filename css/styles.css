@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Persona5";
-  src: url("/fonts/PersonifiedUXRegular.ttf") format("truetype");
+  src: url("./fonts/PersonifiedUXRegular.ttf") format("truetype");
 }
 
 header {
@@ -80,7 +80,7 @@ main {
 }
 
 body {
-  background-image: url("/images/box.jpg");
+  background-image: url("./images/box.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
